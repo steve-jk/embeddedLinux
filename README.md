@@ -1,2 +1,2 @@
-# embeddedLinux
+# Embedded Linux
 Embedded Linux
